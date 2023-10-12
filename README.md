@@ -9,4 +9,10 @@ VIDEOS:
  1. ENTRGA INFORME 2 AVANCE: https://youtu.be/wJHdxGnQU10
 
 
+DATA:
+1. Descarga la base de datos de Kaggle desde este enlace: https://www.kaggle.com/competitions/playground-series-s3e20/data
+2. Une los datos a tu Google Drive copiando los archivos descargados a la unidad principal, sin cambiar los nombres ni crear carpetas adicionales.
+3. Ejecuta el código y permite que Colab acceda a tu Drive.
+
+
     
