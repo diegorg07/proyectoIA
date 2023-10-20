@@ -1,18 +1,32 @@
-# README.md
+# PROYECTO IA
 
-INTEGRANTES
-  - RAUL FELIPE BERRIO;  CC: 1035416370, INGENIERIA INDUSTRIAL
-  - ESTEBAN MACHADO;  CC: 1053836332, INGENIERIA INDUSTRIAL
-  - DIEGO ANDRES RODRIGUEZ GALEANO;  CC: 106121295, INGENIERIA INDUSTRIAL
+## Integrantes
 
-VIDEOS:
- 1. ENTREGA INFORME 2 AVANCE: https://youtu.be/wJHdxGnQU10
+RAUL FELIPE BERRIO; CC: 1035416370, INGENIERIA INDUSTRIAL
 
+ESTEBAN MACHADO; CC: 1053836332, INGENIERIA INDUSTRIAL
 
-DATA:
-1. Descarga la base de datos de Kaggle desde este enlace: https://www.kaggle.com/competitions/playground-series-s3e20/data
-2. Une los datos a tu Google Drive copiando los archivos descargados a la unidad principal, sin cambiar los nombres ni crear carpetas adicionales.
-3. Ejecuta el código y permite que Colab acceda a tu Drive.
+DIEGO ANDRES RODRIGUEZ GALEANO; CC: 106121295, INGENIERIA INDUSTRIAL
 
 
-    
+## Datos
+
+1-Inicia sesión en tu cuenta de Kaggle en https://www.kaggle.com/
+
+2-Ve a tu perfil haciendo clic en tu foto de perfil en la esquina superior derecha y selecciona "Account" (Cuenta).
+
+![Image text](https://github.com/Goura07/PROYECTO-IA/blob/main/Imagen%201.png)
+
+3-En la página de tu cuenta, desplázate hacia abajo hasta la sección "API" y verás un botón que dice "Create New API Token". Haz clic en este botón.
+
+4-Se descargará un archivo llamado "kaggle.json" a tu computadora.
+
+5-Este archivo "kaggle.json" contiene las credenciales necesarias para autenticarte en Kaggle y utilizar la API.
+
+6-Ingresa los datos “username” y “key” del archivo cuando te lo pida el siguiente código
+
+![Image text](https://github.com/Goura07/PROYECTO-IA/blob/main/Imagen%202.png)
+
+## Videos
+
+[VIDEO PRIMERA ENTREGA](https://www.youtube.com/watch?v=skcQYpVwnt8 "VIDEO 1")
