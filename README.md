@@ -27,6 +27,9 @@ DIEGO ANDRES RODRIGUEZ GALEANO; CC: 106121295, INGENIERIA INDUSTRIAL
 
 ![Image text](https://github.com/Goura07/PROYECTO-IA/blob/main/Imagen%202.png)
 
+
 ## Videos
 
 [VIDEO PRIMERA ENTREGA](https://www.youtube.com/watch?v=skcQYpVwnt8 "VIDEO 1")
+
+[VIDEO SEGUNDA ENTREGA](https://www.youtube.com/watch?v=yqC2k5I3YVU&feature=youtu.be&ab_channel=DIEGOANDRESRODRIGUEZGALEANO "VIDEO SEGUNDA ENTREGA")
